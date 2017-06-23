@@ -1,0 +1,159 @@
+.feedback {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  width: 100%;
+  padding: 30px 35px;
+  background: url("../images/feedback/bgcolor-white.png") 0 0 no-repeat;
+  -webkit-background-size: 100% 100%;
+  -moz-background-size: 100% 100%;
+  -o-background-size: 100% 100%;
+  background-size: 100% 100%;
+}
+.feedback .title {
+  margin: 0 0 25px;
+  font-family: 'PT Sans', sans-serif;
+  font-size: 21px;
+  text-transform: uppercase;
+  text-align: center;
+  color: #3b3b3b;
+}
+.feedback .inp {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  display: block;
+  width: 100%;
+  height: 38px;
+  padding: 0 13px;
+  margin: 0 0 25px;
+  border: 1px solid #adacac;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  -ms-border-radius: 3px;
+  -o-border-radius: 3px;
+  border-radius: 3px;
+  background: #ffffff;
+  font-family: 'PT Sans', sans-serif;
+  font-size: 16px;
+  color: #878787;
+  outline: none;
+}
+.feedback .inp::-webkit-input-placeholder, .feedback .inp::-webkit-input-placeholder {
+  color: #878787;
+  opacity: 1;
+}
+.feedback .inp::-moz-placeholder, .feedback .inp::-moz-placeholder {
+  color: #878787;
+  opacity: 1;
+}
+.feedback .inp:-ms-input-placeholder, .feedback .inp:-ms-input-placeholder {
+  color: #878787;
+  opacity: 1;
+}
+.feedback .text-ar {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  width: 100%;
+  height: 65px;
+  padding: 5px 13px;
+  margin: 0 0 15px;
+  border: 1px solid #adacac;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  -ms-border-radius: 3px;
+  -o-border-radius: 3px;
+  border-radius: 3px;
+  background: #ffffff;
+  resize: none;
+  font-family: 'PT Sans', sans-serif;
+  font-size: 16px;
+  color: #878787;
+  outline: none;
+}
+.feedback .text-ar::-webkit-input-placeholder {
+  color: #878787;
+  opacity: 1;
+}
+.feedback .text-ar::-moz-placeholder {
+  color: #878787;
+  opacity: 1;
+}
+.feedback .text-ar:-ms-input-placeholder {
+  color: #878787;
+  opacity: 1;
+}
+.feedback .sbm {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  display: block;
+  width: 62%;
+  height: 38px;
+  border: 1px solid #b17e0e;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  -ms-border-radius: 3px;
+  -o-border-radius: 3px;
+  border-radius: 3px;
+  margin: 0 auto;
+  background: url("../images/feedback/bg-sbm.png") 0 0 no-repeat;
+  -webkit-background-size: 100% 100%;
+  -moz-background-size: 100% 100%;
+  -o-background-size: 100% 100%;
+  background-size: 100% 100%;
+  font-family: 'PT Sans', sans-serif;
+  font-size: 19px;
+  color: #ffffff;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+.feedback.bgcolor-white {
+  background: url("../images/feedback/bgcolor-white.png") 0 0 no-repeat;
+  -webkit-background-size: 100% 100%;
+  -moz-background-size: 100% 100%;
+  -o-background-size: 100% 100%;
+  background-size: 100% 100%;
+}
+.feedback.bgcolor-black {
+  background: url("../images/feedback/bgcolor-black.png") 0 0 no-repeat;
+  -webkit-background-size: 100% 100%;
+  -moz-background-size: 100% 100%;
+  -o-background-size: 100% 100%;
+  background-size: 100% 100%;
+}
+.feedback.bgcolor-yellow {
+  background: url("../images/feedback/bgcolor-yellow.png") 0 0 no-repeat;
+  -webkit-background-size: 100% 100%;
+  -moz-background-size: 100% 100%;
+  -o-background-size: 100% 100%;
+  background-size: 100% 100%;
+}
+.feedback.bgcolor-green {
+  background: url("../images/feedback/bgcolor-green.png") 0 0 no-repeat;
+  -webkit-background-size: 100% 100%;
+  -moz-background-size: 100% 100%;
+  -o-background-size: 100% 100%;
+  background-size: 100% 100%;
+}
+.feedback.bgcolor-red {
+  background: url("../images/feedback/bgcolor-red.png") 0 0 no-repeat;
+  -webkit-background-size: 100% 100%;
+  -moz-background-size: 100% 100%;
+  -o-background-size: 100% 100%;
+  background-size: 100% 100%;
+}
+.feedback.bgcolor-blue {
+  background: url("../images/feedback/bgcolor-blue.png") 0 0 no-repeat;
+  -webkit-background-size: 100% 100%;
+  -moz-background-size: 100% 100%;
+  -o-background-size: 100% 100%;
+  background-size: 100% 100%;
+}
+.feedback.titlecolor-black .title {
+  color: #3b3b3b;
+}
+.feedback.titlecolor-white .title {
+  color: #ffffff;
+}

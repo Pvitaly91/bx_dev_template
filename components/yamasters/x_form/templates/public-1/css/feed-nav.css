@@ -1,0 +1,39 @@
+.feed-nav {
+  position: fixed;
+  top: 50px;
+  left: 20px;
+}
+.feed-nav a {
+  display: block;
+  width: 30px;
+  height: 30px;
+  margin: 0 0 10px 0;
+  -webkit-box-shadow: 0 0 3px 0 #b4b4b4;
+  -moz-box-shadow: 0 0 3px 0 #b4b4b4;
+  box-shadow: 0 0 3px 0 #b4b4b4;
+  cursor: pointer;
+}
+.feed-nav a.bgcolor-white {
+  background: #ffffff;
+}
+.feed-nav a.bgcolor-black {
+  background: #000000;
+}
+.feed-nav a.bgcolor-yellow {
+  background: #f3e4c1;
+}
+.feed-nav a.bgcolor-green {
+  background: #1c7903;
+}
+.feed-nav a.bgcolor-red {
+  background: #b71111;
+}
+.feed-nav a.bgcolor-blue {
+  background: #1280b2;
+}
+.feed-nav a.titlecolor-white {
+  background: #ffffff;
+}
+.feed-nav a.titlecolor-black {
+  background: #3b3b3b;
+}
